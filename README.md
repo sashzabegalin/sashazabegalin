@@ -1,6 +1,6 @@
 # Hello there 👋
 
-My name is Marek and I am a Software Engineer. I am currently a Technical Team Lead and Researcher in the fields of Computer Science, Artificial intelligence and Sustainability, lately also focusing on policies and the decision making in these fields. If you find my expertise useful, don't hesitate to [get in touch 📨](mailto:azabegalin@ucsd.edu)!
+My name is Sasha Zabegalin and I am a student at the University of California, San Diego. I am currently majoring in Cognitive Science - Machine Learning & Neural and minoring in Data Science. Currently, I am a Research Assistant at the San Diego Supercomputer Center located in the beautiful city of La Jolla, California. My research deels in the fields of Computer Science, Artificial intelligence, Machine Learning, Neural Networks, and Data Science. If you find my expertise useful, don't hesitate to [get in touch 📨](mailto:azabegalin@ucsd.edu)!
 
 [![Sasha's GitHub stats](https://github-readme-stats.vercel.app/api?username=sashazabegalin)](https://github.com/sashazabegalin/github-readme-stats)
 
